@@ -60,10 +60,17 @@ Asshole : "Yes"
 
 # Contact Me :
  
- <img src="https://raw.githubusercontent.com/Garcon1337/Garcon1337/main/img/snake.svg"> 
+  
 
 <!---
 ![Cover](https://raw.githubusercontent.com/Garcon1337/Garcon1337/main/img/garcon.jpg)
 Garcon1337/Garcon1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<p align="center" >  
+  <a href="https://github.com/Garcon1337/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+  
+ <img src="https://raw.githubusercontent.com/Garcon1337/Garcon1337/main/img/snake.svg">
 --->
