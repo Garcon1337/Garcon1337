@@ -17,6 +17,12 @@ Asshole : "Yes"
 <a href="https://www.w3schools.com"><img src="/img/icons/scripting.png" width="50" height="50"></a>
 <a href="https://www.w3schools.com"><img src="/img/icons/git.png" width="50" height="50"></a>
 <a href="https://www.w3schools.com"><img src="/img/icons/powershell.png" width="50" height="50"></a>
+<a href="https://www.w3schools.com"><img src="/img/icons/python.png" width="50" height="50"></a>
+<a href="https://www.w3schools.com"><img src="/img/icons/perl.png" width="50" height="50"></a>
+<a href="https://www.w3schools.com"><img src="/img/icons/docker.png" width="50" height="50"></a>
+<a href="https://www.w3schools.com"><img src="/img/icons/html.png" width="50" height="50"></a>
+<a href="https://www.w3schools.com"><img src="/img/icons/bash.png" width="50" height="50"></a>
+
 
 
  <img src="https://raw.githubusercontent.com/Garcon1337/Garcon1337/main/img/snake.svg"> 
