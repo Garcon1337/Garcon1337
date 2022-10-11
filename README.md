@@ -19,7 +19,7 @@ Asshole : "Yes"
 
 <h3>I've been a prostitute lover for over 25 years, I especially love it when she accepts anal.<h3>
 
-<img hight="300" width="600" alt="GIF" align="right" src="https://raw.githubusercontent.com/Garcon1337/Garcon1337/main/img/code.gif">
+<img hight="300" width="400" alt="GIF" align="right" src="https://raw.githubusercontent.com/Garcon1337/Garcon1337/main/img/code.gif">
  
 ### - Learning :
 - ✨ Epsionate my girlfriends
@@ -61,7 +61,8 @@ Asshole : "Yes"
 # Contact Me :
  
   
-
+ <img src="https://raw.githubusercontent.com/Garcon1337/Garcon1337/main/img/snake.svg">
+ 
 <!---
 ![Cover](https://raw.githubusercontent.com/Garcon1337/Garcon1337/main/img/garcon.jpg)
 Garcon1337/Garcon1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -72,5 +73,5 @@ You can click the Preview link to take a look at your changes.
   </a>
   </p>
   
- <img src="https://raw.githubusercontent.com/Garcon1337/Garcon1337/main/img/snake.svg">
+
 --->
