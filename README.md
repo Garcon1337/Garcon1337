@@ -45,17 +45,17 @@ Asshole : "Yes"
     <a href="https://perldoc.perl.org/perl"><img src="/img/icons/perl.png" width="50" height="50"></a>
     <a href="https://docs.docker.com/"><img src="/img/icons/docker.png" width="50" height="50"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="/img/icons/html.png" width="50" height="50"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="/img/icons/css.png" width="50" height="50"></a>
+    <a href="hhttps://developer.mozilla.org/en-US/docs/Web/CSS"><img src="/img/icons/css.png" width="50" height="50"></a>
     <br>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="/img/icons/c.png" width="50" height="50"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="/img/icons/c-sharp.png" width="50" height="50"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="/img/icons/c-plus-plus.png" width="50" height="50"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="/img/icons/mysql.png" width="50" height="50"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="/img/icons/java.png" width="50" height="50"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="/img/icons/ruby.png" width="50" height="50"></a>
+    <a href="https://devdocs.io/c/"><img src="/img/icons/c.png" width="50" height="50"></a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="/img/icons/c-sharp.png" width="50" height="50"></a>
+    <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170"><img src="/img/icons/c-plus-plus.png" width="50" height="50"></a>
+    <a href="https://dev.mysql.com/doc/"><img src="/img/icons/mysql.png" width="50" height="50"></a>
+    <a href="https://docs.oracle.com/en/java/"><img src="/img/icons/java.png" width="50" height="50"></a>
+    <a href="https://www.ruby-lang.org/en/documentation/"><img src="/img/icons/ruby.png" width="50" height="50"></a>
     <br>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="/img/icons/tux.png" width="50" height="50"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="/img/icons/terminal.png" width="50" height="50"></a>
+    <a href="https://www.kernel.org/doc/html/latest/"><img src="/img/icons/tux.png" width="50" height="50"></a>
+    <a href="https://shell.readthedocs.io/en/latest/"><img src="/img/icons/terminal.png" width="50" height="50"></a>
 </p>
 
 # Contact Me :
