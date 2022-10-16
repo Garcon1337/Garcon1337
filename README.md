@@ -13,6 +13,7 @@
 Handsome : "Yes"
 Dick : 21
 Asshole : "Yes"
+Whore : "No"
 ```
 
 <h1>About me 💬 :</h1>
